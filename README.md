@@ -131,7 +131,6 @@ audio {
     </div>
     <audio id="song" controls>
       <source src="Bruno Major - Nothing (Lyrics).mp3" type="audio/mpeg">
-      Your browser does not support the audio element.
     </audio>
     <button class="btn" onclick="nextSlide()">➡️</button>
   </div>  <!-- Slide 3 -->  <div class="slide">
